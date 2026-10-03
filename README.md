@@ -47,6 +47,33 @@
 
 # Проекты и документация
 
+## Automation QA
+
+### Python
+- Python basics
+- Functions
+- Conditions
+- Assertions
+
+### Pytest
+- Test structure
+- Test discovery
+- Assertions
+- Fixtures
+
+### API Automation
+- Requests
+- API tests
+- Authentication
+
+### UI Automation
+- Playwright
+- Page Object Model
+
+### CI/CD
+- GitHub Actions
+- Automated test runs
+---
 ##  Mobile Testing
 - [Plata Banco Android App — Exploratory Testing Report](./docs/PLATA_TEST_REPORT.md)
 - [Mobile Checklist](docs/mobile-checklist.md)
