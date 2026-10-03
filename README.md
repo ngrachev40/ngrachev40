@@ -48,6 +48,7 @@
 # Проекты и документация
 
 ##  Mobile Testing
+- [Plata Banco Android App — Exploratory Testing Report](./docs/PLATA_TEST_REPORT.md)
 - [Mobile Checklist](docs/mobile-checklist.md)
 - [Mobile App Checklist](docs/mobile-app-checklist.md)
 
