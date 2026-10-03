@@ -1,4 +1,4 @@
-# 📱 Plata Android App — Exploratory QA Testing Report
+#  Plata Android App — Exploratory QA Testing Report
 
 > **Author:** Nikita Grachev  
 > **Role:** QA Engineer (Mobile / Fullstack)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 This report covers a comprehensive **Exploratory Testing** session for the **Plata Android Mobile Application** (Registration, Onboarding, and Authentication flows). Special focus was directed toward edge cases, input sanitization, security mechanisms (OTP Rate Limiting, Brute-Force defense), and legal WebViews.
 
@@ -33,7 +33,7 @@ This report covers a comprehensive **Exploratory Testing** session for the **Pla
 
 ---
 
-## 📋 Test Execution Details
+##  Test Execution Details
 
 ### 1. Permissions & Onboarding
 
@@ -85,7 +85,7 @@ This report covers a comprehensive **Exploratory Testing** session for the **Pla
 
 ---
 
-## 🔍 Defensive UX Observations
+##  Defensive UX Observations
 
 1. **Implicit Field Dependency (Lost Access Flow):**
    - **Finding:** The `CURP` field remains disabled until the `Old Phone Number` field is populated.
@@ -96,7 +96,7 @@ This report covers a comprehensive **Exploratory Testing** session for the **Pla
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The **Plata Android App** demonstrates robust production readiness:
 - Solid permission-handling architecture.
@@ -107,4 +107,4 @@ The **Plata Android App** demonstrates robust production readiness:
 
 ### 🔗 Contact Information
 - **Candidate:** Nikita Grachev
-- **Email:** hiring outreach via `hiring@plata.careers`
+- **Email:** ngrachev40@gmail.com
