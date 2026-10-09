@@ -1,111 +1,127 @@
-#  Привет, меня зовут Никита!
+# Привет, меня зовут Никита!
 
-##  QA Tester Portfolio
+## QA Tester Portfolio
 
-Я QA-тестировщик, специализируюсь на тестировании веб- и мобильных приложений и активно развиваюсь в этом направлении.  
-В процессе работ я выполнял тест-дизайн, составлял чек-листы, тест-кейсы и баг-репорты.
+Я QA-тестировщик, специализируюсь на тестировании web- и mobile-приложений и развиваюсь в направлении QA Engineering и Automation QA.
 
----
-
-##  Обо мне
-
--  Тестирую веб и мобильные приложения
--  Пишу чек-листы, тест-кейсы и баг-репорты
--  Применяю техники тест-дизайна (эквивалентное разбиение, анализ граничных значений и др.)
--  Освоил инструменты QA и практики работы с API
--  Постоянно развиваюсь в направлении QA Engineering
+В портфолио собраны реальные учебные и pet-проекты: тестовая документация, exploratory testing, API/mobile/web проверки и собственный Telegram-проект Job Search Agent.
 
 ---
 
-##  Технологии и инструменты
+## Обо мне
 
-###  Тестирование
+- Тестирую web- и mobile-приложения
+- Пишу чек-листы, тест-кейсы и баг-репорты
+- Применяю техники тест-дизайна
+- Работаю с API через Postman
+- Использую DevTools, Charles Proxy, Fiddler и Android Studio
+- Работаю с Git/GitHub
+- Изучаю Python и Automation QA
+- Практикую regression, smoke и exploratory testing
+
+---
+
+## Технологии и инструменты
+
+### Testing
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- Exploratory Testing
 - Test Cases
 - Checklists
 - Bug Reports
 - Equivalence Partitioning
 - Boundary Value Analysis
 
-###  API Testing
+### API
 - Postman
-- DevTools (Chrome)
+- REST API
+- Chrome DevTools / Network
 
-###  Mobile Testing
-- Android Studio (эмуляция)
-- Charles Proxy (перехват трафика)
+### Mobile
+- Android Studio Emulator
+- Charles Proxy
 - Fiddler
 
-###  Базы данных
-- MySQL (базовые запросы)
+### Databases
+- SQL / MySQL basics
+- SELECT
+- JOIN
 
-###  Дополнительно
+### Automation / Development
+- Python
+- Pytest fundamentals
+- Requests
 - Git / GitHub
 - VS Code
-- Bash basics
+- Linux / Bash basics
 
 ---
 
-# Проекты и документация
+# Projects
 
-## Automation QA
+## Job Search Agent — Telegram Vacancy Aggregator
 
-### Python
-- Python basics
-- Functions
-- Conditions
-- Assertions
+Собственный pet-проект: Telegram-бот для агрегирования, фильтрации и ранжирования вакансий под профиль пользователя.
 
-### Pytest
-- Test structure
-- Test discovery
-- Assertions
-- Fixtures
+В проекте реализуются и тестируются:
 
-### API Automation
-- Requests
-- API tests
-- Authentication
+- multiple vacancy sources;
+- scheduled ingestion;
+- SQLite vacancy database;
+- deduplication;
+- two-level job taxonomy;
+- title-first matcher;
+- result grading;
+- per-user vacancy history;
+- Save / Applied / Skip flows;
+- Telegram whitelist collector;
+- AI fallback only for ambiguous cases;
+- Linux/systemd deployment.
 
-### UI Automation
-- Playwright
-- Page Object Model
+Я участвовал в формировании требований и бизнес-логики, проектировании пользовательских сценариев, regression/smoke testing, анализе найденных дефектов и проверке multi-user/source/fallback сценариев.
 
-### CI/CD
-- GitHub Actions
-- Automated test runs
-  
----
-
-##  Mobile Testing
-- [Plata Banco Android App — Exploratory Testing Report](./docs/PLATA_TEST_REPORT.md)
-- [Mobile Checklist](docs/mobile-checklist.md)
-- [Mobile App Checklist](docs/mobile-app-checklist.md)
+- [Project Case Study](./docs/JOB_SEARCH_AGENT_CASE_STUDY.md)
+- [Test Documentation](./docs/JOB_SEARCH_AGENT_TESTING.md)
+- [QA Resume](./RESUME_RU.md)
 
 ---
 
-##  Web Testing
-- [Web Checklist](docs/web-checklist.md)
+## Plata Banco Android App — Exploratory Testing
+
+- [Exploratory Testing Report](./docs/PLATA_TEST_REPORT.md)
+- [Mobile Checklist](./docs/mobile-checklist.md)
+- [Mobile App Checklist](./docs/mobile-app-checklist.md)
 
 ---
 
-##  Test Cases
-- [Test Cases](docs/test-cases.md)
+## Web Testing
+
+- [Web Checklist](./docs/web-checklist.md)
 
 ---
 
-##  Bug Reports
-- [Bug Reports](docs/bug-reports.md)
+## Test Cases
+
+- [Test Cases](./docs/test-cases.md)
 
 ---
 
-##  Test Design
-- [Equivalence Partitioning](docs/equivalence-partitioning.md)
+## Bug Reports
+
+- [Bug Reports](./docs/bug-reports.md)
 
 ---
 
-##  Контакты
+## Test Design
+
+- [Equivalence Partitioning](./docs/equivalence-partitioning.md)
+
+---
+
+## Контакты
 
 - GitHub: https://github.com/ngrachev40
 - Email: ngrachev40@gmail.com
 - Telegram: https://t.me/Fish_Nikita
-
