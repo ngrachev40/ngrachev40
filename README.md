@@ -84,6 +84,7 @@
 
 - [Project Case Study](./docs/JOB_SEARCH_AGENT_CASE_STUDY.md)
 - [Test Documentation](./docs/JOB_SEARCH_AGENT_TESTING.md)
+- [Отчёт о тестировании и выпуске 4.1.1 — 10.10.2026](./docs/JOB_SEARCH_AGENT_RELEASE_4_1_1_REPORT.md)
 - [QA Resume](./RESUME_RU.md)
 
 ---
